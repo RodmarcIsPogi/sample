@@ -21,7 +21,7 @@ body::before {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url("/img/lost-ark-mokoko.jpg"), #000000;
+  background: url("./img/lost-ark-mokoko.jpg"), #000000;
   background-position: center;
   background-size: cover;
 }
